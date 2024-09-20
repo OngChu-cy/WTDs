@@ -1,0 +1,16 @@
+div{
+    background-color: lightblue;
+    padding: 30px;
+    text-align: center;
+}
+div :hover{
+    background-color: antiquewhite;
+
+}
+
+input:focus{
+    background-color:rebeccapurple ;
+}
+p:first-child {
+    color:yellow;
+  }

@@ -1,0 +1,23 @@
+p  {
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.5;
+    word-spacing: 10px;
+    font-size: 24px;
+    font: 15px Arial, sans-sarif;
+    text-indent: 50px;
+     
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: dashed;
+    /* color: rgb(255, 0, 210); */
+    color: #989fff;
+}
+div{
+    padding: 50px;
+    margin: 50px;
+    border: 2px solid red;
+}
